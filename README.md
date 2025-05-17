@@ -1,7 +1,8 @@
 # Spider Cursor
 
 An interactive web animation that creates a dynamic, spider-like cursor effect using HTML5 Canvas and JavaScript.
-
+[Live Demo](https://spidercurs.netlify.app/)
+<img src="spiders.png" alt="spider game preview" width="100%">
 ## Features
 - Responsive canvas animation
 - Web-like cursor movement
